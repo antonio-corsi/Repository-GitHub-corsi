@@ -1,0 +1,11 @@
+id_prestito,importo_euro,tasso_interesse,durata_mesi,tipo_prestito,stato_prestito,motivazione_cliente,data_ora_richiesta
+1001,15000,6.5,48,personale,approvato,"Ristrutturazione del bagno e sostituzione della caldaia",2026-01-12 09:15:00
+1002,180000,3.2,300,mutuo,approvato,"Acquisto della prima casa in zona residenziale",2026-01-20 14:40:00
+1003,22000,5.9,60,auto,approvato,"Acquisto di un'auto ibrida usata per andare al lavoro",2026-02-03 11:05:00
+1004,8000,7.8,24,personale,rifiutato,"Spese mediche impreviste, vorrei rate basse",2026-02-17 16:30:00
+1005,50000,4.7,84,aziendale,in valutazione,"Acquisto di nuovi macchinari per il laboratorio artigianale",2026-03-02 10:20:00
+1006,12000,6.9,36,personale,approvato,"Spese per il matrimonio della figlia",2026-03-15 15:55:00
+1007,240000,3.5,360,mutuo,in valutazione,"Acquisto di una casa più grande dopo la nascita del secondo figlio",2026-04-08 09:45:00
+1008,18500,6.1,60,auto,rifiutato,"Sostituzione del furgone usato per le consegne",2026-04-22 17:10:00
+1009,30000,5.2,72,aziendale,approvato,"Apertura di un secondo punto vendita in centro città",2026-05-06 12:00:00
+1010,5000,8.4,12,personale,approvato,"Corso di formazione professionale e acquisto di un computer",2026-05-19 08:35:00

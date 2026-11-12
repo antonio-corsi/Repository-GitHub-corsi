@@ -1,0 +1,13 @@
+property_id,city,district,distance_center_km,distance_transit_m,property_type,area_sqm,rooms,bathrooms,floor,building_floors,elevator,year_built,condition,energy_class,heating,exposure,balconies,terrace,garden,parking_space,cellar,monthly_condo_fees,sale_month
+string,discrete,discrete,continuous,continuous,discrete,continuous,continuous,continuous,continuous,continuous,discrete,continuous,discrete,discrete,discrete,discrete,continuous,discrete,discrete,discrete,discrete,continuous,continuous
+meta,,,,,,,,,,,,,,,,,,,,,,,
+NEW-01,Milan,center,0.7,262,penthouse,110,5,2,7,7,no,1957,good,E,central,east,0,yes,no,none,yes,182,10
+NEW-02,Rome,semi_center,5.3,559,apartment,72,2,2,0,5,no,1975,good,F,central,south,2,no,no,garage,yes,162,8
+NEW-03,Turin,suburbs,9.2,554,detached_house,182,7,3,0,3,no,2001,good,D,independent,west,1,no,yes,garage,no,0,11
+NEW-04,Naples,center,1.1,316,apartment,68,3,1,5,7,yes,1949,good,F,independent,east,1,no,no,none,yes,174,1
+NEW-05,Bologna,semi_center,5.0,341,apartment,47,1,1,2,9,yes,1986,renovated,C,central,double,2,no,no,none,no,164,1
+NEW-06,Florence,center,1.7,819,apartment,83,4,2,0,6,no,1931,good,G,central,double,0,no,yes,none,no,176,2
+NEW-07,Genoa,suburbs,13.1,3026,apartment,72,2,2,8,10,yes,1952,good,E,independent,south,1,no,no,garage,yes,119,3
+NEW-08,Bari,suburbs,14.3,731,detached_house,152,6,3,0,2,no,1948,renovated,D,independent,double,1,no,yes,parking_space,no,0,12
+NEW-09,Padua,semi_center,4.0,1455,apartment,81,3,2,1,5,yes,1987,to_renovate,E,central,east,0,no,no,none,no,263,4
+NEW-10,Palermo,suburbs,10.0,833,apartment,78,3,2,8,8,yes,2016,good,A,central,double,1,no,no,none,yes,220,4
