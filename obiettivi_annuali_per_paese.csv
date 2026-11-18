@@ -1,0 +1,12 @@
+paese,obiettivo_utile_netto_mln,obiettivo_cost_income_pct,soglia_npl_ratio_pct
+discrete,continuous,continuous,continuous
+,,,
+Italia,2300,53.0,3.0
+Germania,900,63.0,2.5
+Francia,820,60.0,2.5
+Spagna,540,51.0,4.0
+Polonia,500,45.0,4.0
+Romania,210,48.0,5.0
+Ungheria,180,50.0,4.5
+Stati Uniti,330,64.0,3.5
+Brasile,210,46.0,6.0
